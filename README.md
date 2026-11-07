@@ -10,7 +10,7 @@ Passionate about driving innovation and ensuring client success.
 
 🤝 **Seeking help with**: AI engineers to join the Fashion Mirror team – to build out the product, attract investors, or direct investment from those interested in supporting us.
 
-🌱 **Currently learning**: n8n agents and fine-tuning AI models.
+🌱 **Currently learning**: Mastering AI Reasoning Alignment • Cost-Efficient Model Fine-Tuning • Complex Full-Stack Agent Architectures
 
 💬 **Ask me about**: Anything! I'm happy to assist.
 
